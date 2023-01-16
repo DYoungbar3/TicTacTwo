@@ -1,0 +1,25 @@
+.container {
+    margin-top: 8%;
+}
+
+h1 {
+    margin-bottom: 2%;
+}
+
+h3 {
+    margin-bottom: 6%;
+}
+
+.d-flex {
+    margin: 0;
+    font-size: 2.2em;
+    font-weight: bolder;
+    height: 150px;
+}
+
+.row > .d-flex {
+    border: 4px solid black;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+}
